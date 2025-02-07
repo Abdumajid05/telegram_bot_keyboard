@@ -15,4 +15,4 @@ first_name = 'Abdumajid'
 last_name = 'Abdulazizov'
 
 
-# pprint(send_contact(chat_id, phone_number, first_name, last_name))
+pprint(send_contact(chat_id, phone_number, first_name, last_name))

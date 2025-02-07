@@ -17,7 +17,7 @@ def send_venue(chat_id: int, latitude: float, longitude: float, title: str, addr
 
 chat_id = 5423257804
 latitude = 40.7128
-longitude = -74.0060
+longitude = -74.00611
 title = 'Home'
 address = 'New York'
 
